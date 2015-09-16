@@ -23,16 +23,6 @@ mongo select: 60ms
 ```
 
 
-100 rows
-```
-mysql insert: 8171ms
-mysql select: 10ms
-
-mongo insert: 167ms
-mongo select: 60ms
-```
-
-
 1000 rows
 ```
 mysql insert: 94813ms (1.58 minutes)
