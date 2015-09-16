@@ -1,0 +1,16 @@
+{
+  "name": "mongo-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Andre Caetano",
+  "license": "MIT",
+  "dependencies": {
+    "Faker": "^0.7.2",
+    "async": "^1.4.2",
+    "char-spinner": "^1.0.1",
+    "mongojs": "^1.3.0",
+    "mq-node": "^1.0.1-2",
+    "mysql": "^2.9.0"
+  }
+}
