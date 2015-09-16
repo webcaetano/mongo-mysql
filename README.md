@@ -32,7 +32,7 @@ mongo select: 60ms
 ```
 
 
-1000 rows
+1.000 rows
 ```
 mysql insert: 94813ms (1.58 minutes)
 mysql select: 13ms
