@@ -1,4 +1,13 @@
-#### Mongo Mysql Test Performance in Nodejs
+### Mongo Mysql Test Performance in Nodejs
+
+#### Installation
+
+```
+git clone https://github.com/webcaetano/mongo-mysql.git
+cd mongo-mysql
+npm install
+node index
+```
 
 Comparison tests made by this repo 
 
