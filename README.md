@@ -51,7 +51,7 @@ mongo insert: 9956ms (9.95 seconds)
 mongo select: 4539ms (4.539 seconds)
 ```
 
-@ivanpopelyshev results :
+[@ivanpopelyshev](https://github.com/ivanpopelyshev) results :
 
 On SSD virtual server [vultr.com](vultr.com)
 
